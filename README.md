@@ -1,2 +1,2 @@
 # proc_tex
-Procedural Texture Generation
+Differentiable Procedural Texture Generation
